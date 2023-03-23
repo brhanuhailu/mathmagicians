@@ -3,6 +3,16 @@
   padding: 0;
 }
 
+.quote-container {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.cal-contanier {
+  width: 50%;
+}
+
 .wrapper {
   display: block;
   align-items: center;
@@ -18,8 +28,7 @@
 
 .container {
   background-color: rgb(104, 102, 102);
-  width: 35%;
-  margin: auto;
+  width: auto;
 }
 
 .output {
@@ -57,4 +66,23 @@ button {
 
 button:hover {
   cursor: pointer;
+}
+
+.quote {
+  width: 35%;
+  margin-top: 100px;
+  margin-left: 10px;
+}
+
+.qoutes {
+  width: 100%;
+  border: 2px solid;
+}
+
+.qoutes h1 {
+  color: rgb(94, 94, 237);
+  font-size: 1.3rem;
+  text-align: center;
+  padding: 4px 0;
+  text-decoration: underline;
 }
