@@ -14,6 +14,7 @@
   width: 35%;
   top: 0;
 }
+
 .title-container h2 {
   font-family: 'poppins', sans-serif;
   font-size: 1.4rem;
@@ -81,6 +82,7 @@ button:hover {
   padding: 5px 3px;
   text-decoration: underline;
 }
+
 .header {
   display: flex;
   flex-direction: row;
@@ -91,6 +93,7 @@ button:hover {
   font-family: 'Times new romans', sans-serif;
   color: white;
 }
+
 .nav-link {
   display: flex;
   flex-direction: row;
