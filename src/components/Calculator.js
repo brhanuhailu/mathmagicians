@@ -33,7 +33,7 @@ const Calculator = () => {
   }
   return (
     <div className="wrapper">
-      <h2>Lets do some Maths!</h2>
+      <div className="title-container"><h2>Lets do some Maths!</h2></div>
       <div className="container">
         <div className="output">
           <p>
