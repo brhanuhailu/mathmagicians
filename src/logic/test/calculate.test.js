@@ -1,4 +1,4 @@
-import calculate from './calculate';
+import calculate from '../calculate';
 
 const obj = { total: null, next: null, operation: null };
 
