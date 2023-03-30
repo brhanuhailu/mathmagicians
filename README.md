@@ -29,7 +29,7 @@
 > In this Math Magicians app setup project I will develop Math Magicians app that can Send and receive data from an API and calculate mathematical operations. React project for the Math Magicians app is the first project in module three.
 > It has been written plain HTML markup using JSX with general layout of the wireframe Set up.
 
-**[Math Magicians]** is the main part of react project which inluded how to use Gitflow, webpack, ES6, Just test library and API within the react package.
+**[Math Magicians]** is the main part of react project which inluded how to use Gitflow, webpack, ES6, Just test library and API within the react package. and we have test every compnents using just and snapshoot.
 
 ## 🛠 Built With <a name="built-with"></a>
 
