@@ -1,6 +1,6 @@
 import renderer from 'react-test-renderer';
 import { BrowserRouter } from 'react-router-dom';
-import Links from './Links';
+import Links from './links';
 
 const LinkMock = () => {
   <BrowserRouter>
